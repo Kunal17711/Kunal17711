@@ -156,6 +156,8 @@ Research  ->  Wireframe  ->  Design  ->  Develop  ->  Optimize  ->  Deploy
 
 ## Contact
 
+## Contact
+
 <div align="center">
 
 Open to freelance projects, collaborations, and full-time opportunities.
@@ -164,9 +166,11 @@ Open to freelance projects, collaborations, and full-time opportunities.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vidora.co.in-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](http://vidora.co.in/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kkunaall-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kkunaall)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach_Out-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-iiblamekunal-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iiblamekunal)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-kkunaall10@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkunaall10@gmail.com)
 
 </div>
 
