@@ -1,6 +1,11 @@
+<!-- ===== Banner ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=200&section=header&text=Kunal%20Builds&fontSize=40&fontColor=ffffff" />
+</p>
+
 <h1 align="center">Kunal</h1>
 <p align="center">
-Frontend Developer specializing in UI/UX, modern interfaces, and high-performance web applications
+Frontend Developer | UI/UX Focused | Crafting High-Performance Web Experiences
 </p>
 
 <p align="center">
@@ -11,24 +16,35 @@ Frontend Developer specializing in UI/UX, modern interfaces, and high-performanc
 ---
 
 ## Profile
-Frontend developer focused on building scalable, user-centric web applications with a strong emphasis on design quality, performance, and usability. Experienced in crafting clean interfaces, implementing modern design systems, and delivering polished digital experiences.
+
+Frontend developer specializing in designing and building modern, scalable, and visually refined web applications. Focused on delivering high-quality user experiences through clean architecture, performance optimization, and thoughtful interface design.
 
 ---
 
 ## Core Expertise
-- User Interface Development (UI)
-- User Experience Design (UX)
-- Responsive Web Design
-- Component-Based Architecture
+
+- Frontend Development (React, JavaScript)
+- UI/UX Design & Interface Systems
+- Responsive & Adaptive Layouts
 - Performance Optimization
-- Design Systems & Visual Consistency
+- Component-Based Architecture
+- Design Consistency & Visual Hierarchy
 
 ---
 
 ## Technology Stack
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,git,github,vscode" />
 </p>
+
+---
+
+## Currently Building
+
+- Advanced UI components and reusable design systems  
+- Interactive web applications with smooth animations  
+- Scalable frontend architectures for real-world use cases  
 
 ---
 
@@ -48,29 +64,48 @@ Frontend developer focused on building scalable, user-centric web applications w
 
 ---
 
-## Development Approach
-- Focus on clean, maintainable, and scalable code
-- Strong attention to visual hierarchy and detail
-- Prioritizing performance and responsiveness
-- Building interfaces that are both functional and aesthetically refined
+## Project Showcase
 
----
-
-## GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kunal17711&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal17711" />
+  <a href="http://vidora.co.in/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal17711&repo=Dreamscape" />
+  </a>
+  <a href="http://get-raksha-app.web.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal17711&repo=focus-lock-app" />
+  </a>
 </p>
 
 ---
 
-## Contact
-For collaboration, freelance opportunities, or project discussions:
+## GitHub Metrics
 
-- LinkedIn: https://linkedin.com/in/your-linkedin  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunal17711&show_icons=true&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal17711&hide_border=true" />
+</p>
+
+---
+
+## Development Philosophy
+
+- Build with clarity, not complexity  
+- Focus on user experience first  
+- Maintain clean and scalable codebases  
+- Prioritize performance and responsiveness  
+- Deliver visually refined and functional products  
+
+---
+
+## Contact
+
+For collaboration, freelance opportunities, or professional inquiries:
+
 - Portfolio: http://vidora.co.in/  
+- LinkedIn: https://linkedin.com/in/your-linkedin  
 
 ---
 
 ## Statement
-Committed to building high-quality digital products that combine design precision with technical excellence.
+
+Focused on creating impactful digital products by combining design precision with efficient and scalable code.
