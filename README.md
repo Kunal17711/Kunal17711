@@ -8,10 +8,10 @@ I design and develop clean, scalable, and visually engaging web applications wit
 ---
 
 ## About Me
-- Frontend developer with a focus on **UI/UX and modern design systems**
-- Skilled in building **responsive and high-performance web interfaces**
-- Interested in **animations, micro-interactions, and clean UI architecture**
-- Continuously learning and improving through real-world projects
+- Frontend developer focused on **UI/UX and modern design systems**
+- Building **responsive, high-performance web applications**
+- Interested in **animations, micro-interactions, and creative UI**
+- Actively working on real-world projects and improving daily
 - Based in India
 
 ---
@@ -23,10 +23,19 @@ I design and develop clean, scalable, and visually engaging web applications wit
 
 ---
 
-## Selected Projects
-- **Dreamscape** — A modern, immersive web experience with clean UI and smooth interactions  
-- **Nexus** — A performance-focused frontend project with structured architecture  
-- **Focus Lock App** — A productivity-focused application designed to minimize distractions  
+## Live Projects
+
+### Featured Work
+- **Vidora** → http://vidora.co.in/
+- **Raksha App** → http://get-raksha-app.web.app/
+- **Raksha Web** → http://get-raksha.web.app/
+- **WishWrap** → http://wishwrap.in/
+
+### Creative & Experimental
+- **Paradox Verse** → https://paradox-verse.web.app/
+- **EduSync** → https://edusync-frontend-beta.vercel.app/
+- **Solvare** → http://solvare.art/
+- **PicPrompt** → https://www.picprompt.shop/
 
 ---
 
@@ -41,7 +50,7 @@ I design and develop clean, scalable, and visually engaging web applications wit
 ## Contact
 <p>
   <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
-  <a href="https://your-portfolio.vercel.app">Portfolio</a>
+  <a href="http://vidora.co.in/">Portfolio</a>
 </p>
 
 ---
