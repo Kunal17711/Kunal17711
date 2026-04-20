@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Portfolio-vidora.co.in-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/kkunaall">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
