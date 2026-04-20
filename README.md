@@ -1,59 +1,76 @@
 <h1 align="center">Kunal</h1>
-<h3 align="center">Frontend Developer | UI/UX Focused | Building Modern Web Experiences</h3>
+<p align="center">
+Frontend Developer specializing in UI/UX, modern interfaces, and high-performance web applications
+</p>
 
 <p align="center">
-I design and develop clean, scalable, and visually engaging web applications with a strong focus on user experience and performance.
+<a href="http://vidora.co.in/">Portfolio</a> • 
+<a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>
 </p>
 
 ---
 
-## About Me
-- Frontend developer focused on **UI/UX and modern design systems**
-- Building **responsive, high-performance web applications**
-- Interested in **animations, micro-interactions, and creative UI**
-- Actively working on real-world projects and improving daily
-- Based in India
+## Profile
+Frontend developer focused on building scalable, user-centric web applications with a strong emphasis on design quality, performance, and usability. Experienced in crafting clean interfaces, implementing modern design systems, and delivering polished digital experiences.
 
 ---
 
-## Tech Stack
+## Core Expertise
+- User Interface Development (UI)
+- User Experience Design (UX)
+- Responsive Web Design
+- Component-Based Architecture
+- Performance Optimization
+- Design Systems & Visual Consistency
+
+---
+
+## Technology Stack
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,git,github,vscode" />
 </p>
 
 ---
 
-## Live Projects
+## Selected Work
 
-### Featured Work
-- **Vidora** → http://vidora.co.in/
-- **Raksha App** → http://get-raksha-app.web.app/
-- **Raksha Web** → http://get-raksha.web.app/
-- **WishWrap** → http://wishwrap.in/
+### Primary Projects
+- Vidora — http://vidora.co.in/  
+- Raksha App — http://get-raksha-app.web.app/  
+- Raksha Web — http://get-raksha.web.app/  
+- WishWrap — http://wishwrap.in/  
 
-### Creative & Experimental
-- **Paradox Verse** → https://paradox-verse.web.app/
-- **EduSync** → https://edusync-frontend-beta.vercel.app/
-- **Solvare** → http://solvare.art/
-- **PicPrompt** → https://www.picprompt.shop/
+### Additional Projects
+- Paradox Verse — https://paradox-verse.web.app/  
+- EduSync — https://edusync-frontend-beta.vercel.app/  
+- Solvare — http://solvare.art/  
+- PicPrompt — https://www.picprompt.shop/  
 
 ---
 
-## GitHub Statistics
+## Development Approach
+- Focus on clean, maintainable, and scalable code
+- Strong attention to visual hierarchy and detail
+- Prioritizing performance and responsiveness
+- Building interfaces that are both functional and aesthetically refined
+
+---
+
+## GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kunal17711&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal17711&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunal17711&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal17711" />
 </p>
 
 ---
 
 ## Contact
-<p>
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
-  <a href="http://vidora.co.in/">Portfolio</a>
-</p>
+For collaboration, freelance opportunities, or project discussions:
+
+- LinkedIn: https://linkedin.com/in/your-linkedin  
+- Portfolio: http://vidora.co.in/  
 
 ---
 
 ## Statement
-Focused on building meaningful digital experiences through thoughtful design and efficient code.
+Committed to building high-quality digital products that combine design precision with technical excellence.
