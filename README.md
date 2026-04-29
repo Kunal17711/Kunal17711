@@ -22,7 +22,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 ```ts
 const kunal = {
@@ -61,49 +61,103 @@ const kunal = {
 
   philosophy: "Build with clarity. Design with purpose. Ship with confidence."
 };
- 🚀 What I Build
-<div align="center"> <img src="https://img.shields.io/badge/Portfolio%20Websites-2563eb?style=for-the-badge" /> <img src="https://img.shields.io/badge/Landing%20Pages-0ea5e9?style=for-the-badge" /> <img src="https://img.shields.io/badge/Web%20Apps-1e40af?style=for-the-badge" /> <img src="https://img.shields.io/badge/Mobile%20Apps-0284c7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Dashboards-0369a1?style=for-the-badge" /> <img src="https://img.shields.io/badge/UI%2FUX%20Design-0f172a?style=for-the-badge" /> </div>
-⚡ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,firebase,supabase,nodejs,git,github,vercel,figma,vscode&perline=8" /> </div>
-🧠 Core Capabilities
-Area	What I Do
-Frontend	React, Next.js, Tailwind, responsive UI
-Backend	Firebase, Supabase, Auth, APIs
-Mobile	React Native, Expo apps
-Design	UI/UX, Figma, clean layouts
-Deployment	Vercel, hosting, performance
-Product Thinking	Idea → Design → Code → Launch
-🧩 Featured Projects
-Project	Description	Tech	Live
-Portfolio	Premium personal developer portfolio	React, Tailwind	Visit
+```
 
-Vidora	Video/editor marketplace style platform	React, UI/UX	Visit
+---
 
-Raksha	Safety-focused digital product	React, Firebase	Visit
+## Tech Stack
 
-WishWrap	Digital gifting experience	React, Animation	Visit
-
-PicPrompt	AI prompt/product style website	React, UI	Visit
-
-Paradox Verse	Creative immersive web experience	React, Design	Visit
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Kunal17711&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" /> </div>
-📊 GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kunal17711&show_icons=true&theme=default&hide_border=true&title_color=1e40af&icon_color=2563eb&text_color=0f172a" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal17711&layout=compact&theme=default&hide_border=true&title_color=1e40af&text_color=0f172a" /> </div>
-🔥 Streak
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Kunal17711&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=1e40af" /> </div>
-📈 Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal17711&bg_color=ffffff&color=0f172a&line=2563eb&point=1e40af&area=true&hide_border=true" width="100%" /> </div>
-🎯 Current Focus
-→ Building high-end web and app products
-→ Improving full-stack development skills
-→ Creating clean UI/UX systems
-→ Learning by shipping real projects
-→ Growing as a young product builder
-💼 Open To
-<div align="center"> <img src="https://img.shields.io/badge/Freelance%20Projects-Open-2563eb?style=for-the-badge" /> <img src="https://img.shields.io/badge/Collaborations-Open-0ea5e9?style=for-the-badge" /> <img src="https://img.shields.io/badge/Product%20Ideas-Open-1e40af?style=for-the-badge" /> </div>
-🤝 Connect With Me
-<div align="center"> <a href="https://heyitskunal.vercel.app/"> <img src="https://img.shields.io/badge/View%20Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" /> </a> &nbsp; <a href="https://www.linkedin.com/in/kunalldev"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
 <div align="center">
-“Build with clarity. Design with purpose. Ship with confidence.”
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:60a5fa,100:e0f2fe&height=130&section=footer" width="100%" /> </div> ``` 
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,firebase,supabase,nodejs,git,github,vercel,figma,vscode&perline=8" />
+</div>
+
+---
+
+## Core Capabilities
+
+| Area       | Details                                  |
+| ---------- | ---------------------------------------- |
+| Frontend   | React, Next.js, Tailwind, responsive UI  |
+| Backend    | Firebase, Supabase, authentication, APIs |
+| Mobile     | React Native, Expo                       |
+| Design     | UI/UX systems, Figma                     |
+| Deployment | Vercel, hosting, optimization            |
+| Product    | Idea → Design → Development → Launch     |
+
+---
+
+## Featured Projects
+
+| Project       | Description                  | Tech            | Link                            |
+| ------------- | ---------------------------- | --------------- | ------------------------------- |
+| Portfolio     | Personal developer portfolio | React, Tailwind | https://heyitskunal.vercel.app/ |
+| Vidora        | Creator/video platform       | React           | https://vidora.co.in/           |
+| Raksha        | Safety product               | React, Firebase | https://get-raksha.web.app/     |
+| WishWrap      | Digital gifting              | React           | https://wishwrap.in/            |
+| PicPrompt     | AI prompt product site       | React           | https://www.picprompt.shop/     |
+| Paradox Verse | Creative experience          | React           | https://paradox-verse.web.app/  |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kunal17711&show_icons=true&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal17711&layout=compact&theme=default&hide_border=true" />
+</div>
+
+---
+
+## Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kunal17711&theme=default&hide_border=true" />
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal17711&bg_color=ffffff&color=0f172a&line=2563eb&point=1e40af&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kunal17711&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" />
+</div>
+
+---
+
+## Current Focus
+
+* Building high-end web and app products
+* Improving full-stack architecture
+* Creating scalable UI systems
+* Shipping real-world projects
+* Growing developer brand
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="https://heyitskunal.vercel.app/">
+  <img src="https://img.shields.io/badge/View%20Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kunalldev">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:60a5fa,100:e0f2fe&height=130&section=footer" width="100%" />
+</div>
