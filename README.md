@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090d,45:240507,100:b91c1c&height=260&section=header&text=Kunal%20Dev&fontSize=88&fontColor=fff1c7&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Firebase%20%7C%20Supabase&descSize=18&descAlignY=60&descColor=d6c7a1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090d,40:240507,100:b91c1c&height=280&section=header&text=Kunal%20Dev&fontSize=90&fontColor=fff1c7&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20UI%2FUX&descSize=18&descAlignY=60&descColor=d6c7a1" width="100%"/>
 
 <br/>
 
@@ -16,51 +16,43 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=FFF1C7&center=true&vCenter=true&width=850&lines=Building+High-End+Web+%26+App+Products;Turning+Ideas+into+Real+Digital+Experiences;React+%7C+Next.js+%7C+Tailwind+%7C+Firebase+%7C+Supabase;Open+to+Freelance+%26+Collaboration" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=FFF1C7&center=true&vCenter=true&width=900&lines=Building+High-End+Web+%26+App+Experiences;Crafting+Clean+UI%2FUX+with+Functional+Code;Turning+Ideas+into+Real+Products;Full-Stack+Development+with+Modern+Tech;Open+to+Freelance+%26+Collaboration" />
 
 </div>
 
 ---
 
-## About Me
+# 👋 Hey, I'm Kunal
+
+I'm a **Full-Stack Web & App Developer** focused on building **real-world digital products**.
+
+Not just designs.  
+Not just code.  
+👉 I build **usable, scalable, production-ready systems**.
+
+---
+
+## 🧠 Developer Identity
 
 ```ts
 const kunal = {
   name: "Kunal Dev",
-  role: "Full-Stack Web & App Developer",
+  role: "Full-Stack Developer",
   location: "Haryana, India",
   portfolio: "https://heyitskunal.vercel.app/",
 
-  currentlyBuilding: "Raksha — AI-powered women safety technology",
+  currentFocus: "Building real-world products that solve actual problems",
 
-  coreStack: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS",
-    "Firebase",
-    "Supabase",
-    "React Native",
-    "Expo",
+  mindset: [
+    "Clarity over complexity",
+    "Performance over noise",
+    "Function over decoration",
   ],
 
-  whatIBuild: [
-    "Portfolio Websites",
-    "Landing Pages",
-    "Web Applications",
-    "Mobile App Interfaces",
-    "Dashboards",
-    "Digital Products",
-  ],
-
-  focus: [
-    "Clean UI",
-    "Responsive Design",
+  strengths: [
+    "Frontend Architecture",
     "Backend Integration",
-    "Performance",
-    "Real-world usability",
+    "UI/UX Systems",
+    "Product Thinking",
   ],
-
-  philosophy: "Build with clarity. Design with purpose. Ship with confidence.",
-  openTo: ["Freelance Projects", "Collaborations", "Product Ideas"],
 };
