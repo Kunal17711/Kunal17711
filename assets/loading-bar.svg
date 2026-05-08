@@ -1,0 +1,12 @@
+<svg width="700" height="70" viewBox="0 0 700 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="40" y="24" width="620" height="18" rx="9" fill="#e0f2fe"/>
+  <rect x="40" y="24" width="180" height="18" rx="9" fill="#2563eb">
+    <animate attributeName="width" values="120;620;120" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="40" cy="33" r="5" fill="#1e3a8a">
+    <animate attributeName="cx" values="40;660;40" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="350" y="61" text-anchor="middle" fill="#0f172a" font-size="15" font-family="JetBrains Mono, Consolas, monospace">
+    Building clean digital products...
+  </text>
+</svg>
