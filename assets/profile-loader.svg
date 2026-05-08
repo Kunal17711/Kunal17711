@@ -1,0 +1,19 @@
+<svg width="780" height="120" viewBox="0 0 780 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="55" y="18" width="670" height="3" rx="1.5" fill="#1e293b"/>
+  <rect x="55" y="18" width="150" height="3" rx="1.5" fill="#2563eb">
+    <animate attributeName="width" values="80;670;80" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="120" y="52" width="540" height="18" rx="9" fill="#172033"/>
+  <rect x="120" y="52" width="210" height="18" rx="9" fill="#2563eb">
+    <animate attributeName="width" values="120;540;120" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <circle cx="120" cy="61" r="5" fill="#60a5fa">
+    <animate attributeName="cx" values="120;660;120" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="390" y="98" text-anchor="middle" fill="#60a5fa" font-size="15" font-weight="700" font-family="JetBrains Mono, Consolas, monospace">
+    Building premium digital products...
+  </text>
+</svg>
