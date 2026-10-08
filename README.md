@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Kunal%20Dev&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Frontend%20%26%20Mobile%20Developer%20%E2%80%A2%20UI%2FUX&descSize=18&descAlignY=62&descColor=dbeafe" width="100%" alt="Kunal Dev" />
+<img src="./assets/banner.svg" width="100%" alt="Kunal Dev - Frontend and Mobile Developer" />
 
 <br/>
 
@@ -45,12 +45,6 @@ Most of my work is in React, Next.js, and Expo (React Native), with Supabase or 
 
 ## Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,supabase,git,github,vercel,figma,vscode&perline=9" alt="Tech stack" />
-
-</div>
-
 | Area | Tools |
 | :-- | :-- |
 | **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
@@ -69,23 +63,6 @@ Most of my work is in React, Next.js, and Expo (React Native), with Supabase or 
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kunal17711&show_icons=true&theme=github_dark&hide_border=true&title_color=60A5FA&icon_color=60A5FA" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal17711&layout=compact&theme=github_dark&hide_border=true&title_color=60A5FA" alt="Top languages" />
-
-</div>
-
----
-
 ## Get in Touch
 
 I'm open to freelance projects, collaborations, and open-source work. The fastest way to reach me is by email at **kkunaall10@gmail.com**, or you can message me on [LinkedIn](https://www.linkedin.com/in/kunalldev).
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" width="100%" alt="" />
-
-</div>
