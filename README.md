@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Kunal Dev - Frontend and Mobile Developer" />
+<img src="./assets/kunal-builds.svg" width="100%" alt="Kunal Builds" />
 
 <br/>
 
